@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FetchTest</string>
+    <string name="screen_title">Fetch Items</string>
+    <string name="error_generic">An error occurred</string>
+    <string name="button_retry">Retry</string>
+    <string name="item_id_format">ID: %1$d</string>
+    <string name="list_title_format">List %1$d</string>
+</resources>
